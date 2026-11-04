@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * C++
   * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-* [Markdown](http://xszhao.science/blog/markdown-syntax/)
+* [Markdown](https://xsz0.com/blog/markdown-syntax/)
 * Git
   * [cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
   * [skills](content/git/skills.md)

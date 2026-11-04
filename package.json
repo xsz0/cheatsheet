@@ -2,7 +2,7 @@
   "name": "cheatsheet",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:hansonzhao007/cheatsheet.git",
+  "repository": "git@github.com:xsz0/cheatsheet.git",
   "author": "Xingsheng Zhao <zhxshseu@gmail.com>",
   "license": "MIT",
   "devDependencies": {

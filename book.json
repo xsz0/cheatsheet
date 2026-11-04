@@ -29,11 +29,11 @@
             ] 
         },
         "sitemap": {
-            "hostname": "http://xszhao.science/cheatsheet"
+            "hostname": "https://xsz0.com/cheatsheet"
         },
         "github-buttons": {
             "buttons": [{
-                "user": "hansonzhao007",
+                "user": "xsz0",
                 "repo": "cheatsheet",
                 "type": "star",
                 "size": "small",
@@ -46,14 +46,14 @@
             "signature": "XS Zhao",
             "wisdom": "Stay Foolish, Stay Hungry",
             "format": "yyyy-MM-dd hh:mm:ss",
-            "copyright": "Copyright &#169; hansonzhao007",
+            "copyright": "Copyright &#169; Xingsheng Zhao",
             "timeColor": "#666",
             "copyrightColor": "#666",
             "utcOffset": "8",
             "isShowQRCode": true,
-            "baseUri": "http://xszhao.science/cheatsheet/",
+            "baseUri": "https://xsz0.com/cheatsheet/",
             "isShowIssues": true,
-            "repo": "hansonzhao007/cheatsheet",
+            "repo": "xsz0/cheatsheet",
             "issueNum": "8",
             "token": "",
             "style": "normal"
